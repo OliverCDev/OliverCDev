@@ -69,5 +69,5 @@
   </a>
   <br/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OliverCDev&theme=radical&hide_border=true" alt="Oliver's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=OliverCDev&theme=radical&hide_border=true" alt="Oliver's GitHub Streak" />
 </div>
