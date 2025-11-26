@@ -64,6 +64,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OliverCDev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Oliver's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverCDev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=OliverCDev&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Oliver's Trophies" />
+  </a>
+  <br/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OliverCDev&theme=radical&hide_border=true" alt="Oliver's GitHub Streak" />
 </div>
