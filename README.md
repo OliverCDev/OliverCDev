@@ -61,7 +61,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Mis Logros
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -69,5 +69,5 @@
   </a>
   <br/>
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=OliverCDev&theme=radical&hide_border=true" alt="Oliver's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=OliverCDev&theme=radical&hide_border=true&v=2" alt="Oliver's GitHub Streak" />
 </div>
