@@ -58,16 +58,3 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 </div>
-
----
-
-### 🏆 Mis Logros
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=OliverCDev&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Oliver's Trophies" />
-  </a>
-  <br/>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=OliverCDev&theme=radical&hide_border=true&v=2" alt="Oliver's GitHub Streak" />
-</div>
